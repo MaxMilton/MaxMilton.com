@@ -39,7 +39,7 @@
     "@types/js-yaml": "4.0.2",
     "@types/node": "15.6.1",
     "eslint": "7.30.0",
-    "jest": "26.6.3",
+    "jest": "27.0.6",
     "js-yaml": "4.1.0",
     "locate-character": "2.0.5",
     "minna-tools": "0.36.1-next.57",
